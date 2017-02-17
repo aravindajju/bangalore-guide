@@ -1,0 +1,40 @@
+getOverview more information about bengaluru
+getOverview what's it like in bengaluru
+getOverview tell me more about bengaluru 
+getOverview tell me some facts about bengaluru 
+getOverview facts about bengaluru 
+getOverview overview of bengaluru
+getOverview bengaluru facts 
+getOverview bengaluru overview
+
+getOverview more information about Bangalore
+getOverview what's it like in Bangalore
+getOverview tell me more about Bangalore 
+getOverview tell me some facts about Bangalore 
+getOverview facts about Bangalore 
+getOverview overview of Bangalore
+getOverview Bangalore facts 
+getOverview Bangalore overview
+
+getTopFiveIntent tell me the top five things 
+getTopFiveIntent top five things to do 
+getTopFiveIntent give me the top five 
+getTopFiveIntent the top five
+getTopFiveIntent top five
+getTopFiveIntent the top five things to do
+
+getAttractionIntent tell me a good attraction 
+getAttractionIntent where should I go
+getAttractionIntent an attraction
+getAttractionIntent attractions 
+
+getMoreInfoIntent tell me more about number {attraction}
+getMoreInfoIntent what is number {attraction}
+getMoreInfoIntent more about number {attraction}
+getMoreInfoIntent number {attraction} 
+getMoreInfoIntent {attraction}
+
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
